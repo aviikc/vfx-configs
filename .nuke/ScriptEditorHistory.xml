@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><script>import nuke</script><script>print(nuke.formats())</script><script>for i in nuke.formats():
+    print(i.name())</script>
